@@ -1,11 +1,11 @@
 {
-  "name": "learnstorybook-design-system",
+  "name": "oxinion-design-system",
   "version": "0.1.0",
   "private": false,
-  "description": "Learn Storybook design system",
+  "description": "OXINION Design System",
   "main": "dist/index.js",
-  "repository": "https://github.com/chromaui/learnstorybook-design-system.git",
-  "author": "Tom Coleman <tom@thesnail.org>",
+  "repository": "https://github.com/oxinion/design-system.git",
+  "author": "Brandon Ha <idevbrandon@oxinion.com>",
   "license": "MIT",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
