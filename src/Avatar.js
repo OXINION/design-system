@@ -128,6 +128,15 @@ export function Avatar({ loading, username, src, size, ...props }) {
   );
 }
 
+const Template = (args) => <Avatar {...args} />;
+export const Controls = Template.bind({});
+Controls.args = {
+  loading: false,
+  size: "tiny",
+  username: "Dominic Nguyen",
+  src: "https://avatars2.githubusercontent.com/u/263385",
+};
+
 Avatar.propTypes = {
   /**
     Use the loading state to indicate that the data Avatar needs is still loading.
