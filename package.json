@@ -5,6 +5,7 @@
   "description": "OXINION Design System",
   "main": "dist/index.js",
   "repository": "https://github.com/oxinion/design-system.git",
+  "homepage": "https://design.oxinion.com",
   "author": "Brandon Ha <idevbrandon@oxinion.com>",
   "license": "MIT",
   "dependencies": {
